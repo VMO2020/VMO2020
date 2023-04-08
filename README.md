@@ -20,12 +20,12 @@
 
 <br>
 <p align="center">
-    <img height="50" width="60" src="images/mongodb.svg" alt="logo html5" />
-    <img height="50" width="60" src="images/express.svg" alt="logo css3" />
-    <img height="50" width="60" src="images/react.svg" alt="logo javascript" />
-    <img height="50" width="60" src="images/nodejs.svg" alt="logo javascript" />
-    <img height="50" width="60" src="images/html5.svg" alt="logo html5" />
-    <img height="50" width="60" src="images/css3.svg" alt="logo css3" />
+    <img height="50" width="80" src="images/mongodb.svg" alt="logo html5" />
+    <img height="50" width="80" src="images/express.svg" alt="logo css3" />
+    <img height="50" width="80" src="images/react.svg" alt="logo javascript" />
+    <img height="50" width="80" src="images/nodejs.svg" alt="logo javascript" />
+    <img height="50" width="80" src="images/html5.svg" alt="logo html5" />
+    <img height="50" width="80" src="images/css3.svg" alt="logo css3" />
     <img height="50"  src="images/javascript.svg" alt="logo javascript" />
-    <img height="50" width="60" src="images/sass.svg" alt="logo javascript" />
+    <img height="45" width="80" src="images/sass.svg" alt="logo javascript" />
 </p>
