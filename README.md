@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="400px" src="giphy.gif" alt="image" />
+    <img width="100%" height="200px" src="giphy.gif" alt="image" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Victor Ottati</h2>
