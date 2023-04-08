@@ -16,10 +16,10 @@
 
 <br>
 <p align="center">
-    <img height="100px" src="images/mongodb.svg" alt="logo html5" />
-    <img height="100px" src="images/express.svg" alt="logo css3" />
-    <img height="100px" src="images/react.svg" alt="logo javascript" />
-    <img height="100px" src="images/nodejs.svg" alt="logo javascript" />
+    <img height="80px" src="images/mongodb.svg" alt="logo html5" />
+    <img height="80px" src="images/express.svg" alt="logo css3" />
+    <img height="80px" src="images/react.svg" alt="logo javascript" />
+    <img height="80px" src="images/nodejs.svg" alt="logo javascript" />
 </p>
 
 <br>
