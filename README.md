@@ -27,5 +27,16 @@
     <img height="50" width="80" src="images/html5.svg" alt="logo html5" />
     <img height="50" width="80" src="images/css3.svg" alt="logo css3" />
     <img height="50"  src="images/javascript.svg" alt="logo javascript" />
-    <img height="45" width="80" src="images/sass.svg" alt="logo javascript" />
+    <img height="45" width="80" src="images/sass.svg" alt="logo" />
+    <img height="50" width="80" src="images/firebase.svg" alt="logo" />
+    <img height="50" width="80" src="images/postman.svg" alt="logo" />
+    <img height="50" width="80" src="images/github.svg" alt="logo" />
+    <img height="50" width="80" src="images/npm.svg" alt="logo" />
+    <img height="50" width="80" src="images/stackoverflow.svg" alt="logo" />
+    <img height="50" width="80" src="images/figma.svg" alt="logo" />
+    <img height="50" width="80" src="images/3d-printing.svg" alt="logo" />
+    <img height="50" width="80" src="images/word.svg" alt="logo" />
+    <img height="50" width="80" src="images/excel.svg" alt="logo" />
+    <img height="50" width="80" src="images/powerpoint.svg" alt="logo" />
+    <img height="50" width="80" src="images/apple.svg" alt="logo" />
 </p>
