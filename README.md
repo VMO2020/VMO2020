@@ -3,8 +3,8 @@
     <img width="100%" height="200px" src="images/giphy.gif" alt="image" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Victor Ottati</h2>
-<h3 align="center">A passionate full stack website developer</h3>
+<h1 align="center">Hi 👋, I'm Victor Ottati</h1>
+<h2 align="center">A passionate full stack website developer</h2>
 <br />
 
 ⚙️ All of my projects are available at [https://vmog.net/](https://vmog.net/)  
