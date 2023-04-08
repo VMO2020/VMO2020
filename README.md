@@ -14,8 +14,6 @@
 💬 Ask me about: **MongoDB, Express, REACT JS, NODE JS, HTML5, CSS3, Saas & Javascript**
 <br>
 
-### MERN
-
 <br>
 <p align="center">
     <img height="100px" src="images/mongodb.svg" alt="logo html5" />
