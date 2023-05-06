@@ -7,8 +7,6 @@
 <h2 align="center">A passionate full stack website developer</h2>
 <br />
 
-- ⚽️ I’m currently working at **Liverpool FC**.
-
 - 👨🏼‍🎓 I’m currently learning **MERN Stack Coding Bootcamp**, Teach Educators LTD.
 
 - 🖥 All of my projects are available at [https://vmog.net/](https://vmog.net/)  
