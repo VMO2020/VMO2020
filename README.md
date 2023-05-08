@@ -40,8 +40,8 @@ MERN
     <img height="45" width="80" src="images/sass.svg" alt="logo" />
     <img height="50" width="80" src="images/firebase.svg" alt="logo" />
     <img height="50" width="80" src="images/postman.svg" alt="logo" />
-    <img height="50" width="80" src="images/git.svg" alt="logo" />
     <img height="50" width="80" src="images/github.svg" alt="logo" />
+    <img height="50" width="80" src="images/git.svg" alt="logo" />
     <img height="50" width="80" src="images/npm.svg" alt="logo" />
     <img height="50" width="80" src="images/vitejs.svg" alt="logo" />
     <img height="50" width="80" src="images/stackoverflow.svg" alt="logo" />
