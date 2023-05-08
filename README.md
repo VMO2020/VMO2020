@@ -21,7 +21,9 @@
 <br>
 <br>
 
-### MERN
+<h3 align="center">
+MERN
+</h3>
 
 <p align="center">
   <img height="50" width="80" src="images/mongodb.svg" alt="logo html5" />
@@ -30,7 +32,6 @@
     <img height="50" width="80" src="images/nodejs.svg" alt="logo javascript" />
 </p>
 
-<br>
 <br>
 
 <p align="center">
