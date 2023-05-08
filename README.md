@@ -19,7 +19,6 @@
 
 - 🏗️ I'm Civil Engineer.
 <br>
-<br>
 
 <h3 align="center">
 MERN
