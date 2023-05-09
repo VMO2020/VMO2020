@@ -44,6 +44,7 @@ MERN
     <img height="50" width="80" src="images/git.svg" alt="logo" />
     <img height="50" width="80" src="images/npm.svg" alt="logo" />
     <img height="50" width="80" src="images/vitejs.svg" alt="logo" />
+    <img height="50" width="80" src="images/markdown.svg" alt="logo" />
     <img height="50" width="80" src="images/stackoverflow.svg" alt="logo" />
     <img height="50" width="80" src="images/coreldraw.svg" alt="logo" />
     <img height="50" width="80" src="images/figma.svg" alt="logo" />
