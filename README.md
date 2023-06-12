@@ -7,7 +7,7 @@
 <h2 align="center">A passionate full stack website developer</h2>
 <br />
 
-- 👨🏼‍🎓 I am currently updating my knowledge on **MERN Stack Coding Bootcamp**, Teach Educators LTD, Norwich, UK.
+- 👨🏼‍🎓 I recently completed a boot camp **MERN Stack Coding Bootcamp**, Teach Educators LTD, Norwich, UK.
 
 - 🖥 All of my projects are available at [https://vmog.net/](https://vmog.net/)  
 
